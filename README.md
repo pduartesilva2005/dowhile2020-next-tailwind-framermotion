@@ -19,7 +19,7 @@ We'll build a lightweight, animated & responsive small website.
 
   # Install the Dependencies
   yarn ou yarn install
-  ou npm Install
+  ou npm install
 
   # Running the Project
   yarn dev
