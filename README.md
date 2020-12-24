@@ -25,7 +25,7 @@ We'll build a lightweight, animated & responsive small website.
   yarn dev
 ```
 
-## Contribuitors
+## Project Authors
 
 <img src="https://avatars0.githubusercontent.com/u/59842901?s=460&u=8afcb34374fd183b0f12aa2ad00c434c13a2e302&v=4" alt="Pedro Duarte" width="150">
 Pedro Duarte
