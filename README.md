@@ -22,7 +22,7 @@ We'll build a lightweight, animated & responsive small website.
   ou npm install
 
   # Running the Project
-  yarn dev
+  yarn dev ou npm run dev
 ```
 
 ## Project Authors
