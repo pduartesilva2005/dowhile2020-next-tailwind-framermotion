@@ -15,7 +15,7 @@ We'll build a lightweight, animated & responsive small website.
 ## Getting Started
 ``` 
   # Clone the Repository
-  git clone https://github.com/pedroduarte2005/dowhile2020-next-tailwind-framermotion.git
+  git clone https://github.com/pduartesilva2005/dowhile2020-next-tailwind-framermotion.git
 
   # Install the Dependencies
   yarn ou yarn install
